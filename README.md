@@ -1,2 +1,2 @@
-# cosmopolis.github.io
+# cosmopolis
 Cosmopolis site
