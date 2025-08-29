@@ -1,6 +1,6 @@
 # Главная страница
 
-<p align="center">***Осознание себя в Глобальном Универсальном Мировоззрении***</p> 
+<p align="center">Осознание себя в Глобальном Универсальном Мировоззрении</p> 
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ueupvre6WZ2KS26b6Gkk4gHaKA%3Fpid%3DApi&f=1&ipt=684aed255abca2d1f8d3ad105020cbb77cb88dd3643b6061ecff2b732869d08c)
 
